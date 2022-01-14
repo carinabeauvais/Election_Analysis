@@ -12,22 +12,27 @@ Tom and I are performing an audit of tabulated election results in a Colorado-ba
  1. Data source: Election_Results.csv
  2. Software: Python 3.7.6, Visual Studio Code 1.63.2
 
+
 #### Summary
 The results show the following:
 * There were 369,711 votes cast in the election.
 
-* The candidates were as follows:
+
+The candidates were as follows:
 *   Charles Casper Stockham
 *   Diana DeGette
 *   Raymon Anthony Doane
 
-* The candidate results were as follows:
+
+The candidate results were as follows:
 *   Charles Casper Stockham received 23.0% of the vote with 85,213 votes.
 *   Diana DeGette received 73.8% of the vote with 272,892 votes.
 *   Raymon Anthony Doane received 3.1% of the vote with 11,606 votes.
 
+
 The winner of the election was:
 * Diana DeGette with a vote count of 272,892 which was 73.8% of the popular vote.
+
 
 ##### Challenge Overview
 Utilizing Python we learned how to write code in Visual Studio Code to quickly tally the results of this election and send the results to a CSV tile. Also learned how to load the results using Git Bash. 
